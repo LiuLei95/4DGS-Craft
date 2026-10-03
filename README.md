@@ -1,21 +1,5 @@
 # 4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing
 
-Official implementation of:
-
-**4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing**
-
-Lei Liu, Can Wang, Zhenghao Chen, Zhenhua Liu, Dong Xu
-
-IEEE Transactions on Circuits and Systems for Video Technology, 2026
-
-Paper:
-https://ieeexplore.ieee.org/document/11436015
-
-Project Page:
-https://github.com/LiuLei95/4DGS-Craft
-
----
-
 ## Overview
 
 4DGS-Craft is an interactive text-driven editing framework for dynamic scenes represented by 4D Gaussian Splatting.
